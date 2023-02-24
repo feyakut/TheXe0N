@@ -11,3 +11,8 @@ I’m Fırat Eren Yakut, a student at the Atatürk High School of Science. I’m
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,discord,git,github,ps,pr,raspberrypi,visualstudio,vscode)](https://skillicons.dev)
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thexe0n&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexe0n&hide=TeX&layout=compact)
