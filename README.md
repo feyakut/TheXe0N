@@ -7,6 +7,7 @@ I’m Fırat Eren Yakut, a student at the Atatürk High School of Science. I’m
 [![Gmail Badge](https://img.shields.io/badge/-feyakut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feyakut@gmail.com)](mailto:feyakut@gmail.com)
 
 
+## ⚡ Technologies
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,discord,git,github,ps,pr,raspberrypi,visualstudio,vscode)](https://skillicons.dev)
