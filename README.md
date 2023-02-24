@@ -18,5 +18,5 @@ I’m Fırat Eren Yakut, a student at the <a href="https://iafl.meb.k12.tr/" tar
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thexe0n&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexe0n&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thexe0n&count_private=true&theme=darcula&hide_border=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexe0n&theme=darcula&hide_border=true&hide=TeX&layout=compact)
