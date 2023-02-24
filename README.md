@@ -1,6 +1,6 @@
 ## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I’m Fırat Eren Yakut, a student at the Atatürk High School of Science. I’m interested in Game Development and AI's. I'm also a tech enthusiast. You can contact me at:
+I’m Fırat Eren Yakut, a student at the <a href="https://iafl.meb.k12.tr/" target="_blank">Atatürk High School of Science</a>. I’m interested in Game Development and AI's. I'm also a tech enthusiast. You can contact me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-feyakut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feyakut/)](https://www.linkedin.com/in/feyakut/)
 [![Instagram Badge](https://img.shields.io/badge/-firaterenyakut-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/firaterenyakut/)](https://instagram.com/firaterenyakut)
@@ -14,7 +14,7 @@ I’m Fırat Eren Yakut, a student at the Atatürk High School of Science. I’m
 
 
 
-## 🎉 Check Out Our New Project: KORTEKS[https://korteks.dev/]
+## 🎉 Check Out Our New Project: <a href="https://korteks.dev/" target="_blank">KORTEKS</a>
 
 
 
