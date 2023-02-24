@@ -3,7 +3,8 @@
 I’m Fırat Eren Yakut, a student at the Atatürk High School of Science. I’m interested in Game Development and AI's. I'm also a tech enthusiast. You can contact me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-feyakut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feyakut/)](https://www.linkedin.com/in/feyakut/)
-[![Instagram Badge](https://img.shields.io/badge/-firaterenyakut-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/firaterenyakut/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-firaterenyakut-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/firaterenyakut/)](https://instagram.com/firaterenyakut)
+[![Gmail Badge](https://img.shields.io/badge/-feyakut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feyakut@gmail.com)](mailto:feyakut@gmail.com)
 
 
 
